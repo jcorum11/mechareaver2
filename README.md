@@ -1,27 +1,39 @@
-# Mechareaver2
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
+  # Mecha Reaver 2
 
-## Development server
+  ![License](https://img.shields.io/badge/license-MIT-green)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+  ## Description
+  A game about robots that fight each other. 
 
-## Code scaffolding
+  ## Table of Contents
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Questions](#Questions)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+  ## Installation
+  clone this repo, `cd` into the directory and run `npm i` in the console.
 
-## Build
+  ## Usage
+  Run `ng serve -o`. Requires Angular 13.3.0.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+  ## License
+  [MIT License](https://choosealicense.com/licenses/mit/)
+  #### License Details
+  >A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
 
-## Running unit tests
+  ## Contributing
+  Clone this repo, make some changes, and create a pull request. I'll get to it when I get to it... Sheesh.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+  ## Tests
+  Jasmine 4. Run `npm run test`.
 
-## Running end-to-end tests
+  ## Questions
+  [Jake's GitHub Profile](https://github.com/jcorum11)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+  [Jake's Email](jacob.w.corum@gmail.com)
+  <br/>
+  <br/>
